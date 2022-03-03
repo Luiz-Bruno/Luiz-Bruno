@@ -1,6 +1,6 @@
 ### Olá, eu sou Luiz Bruno 🎮 
 ##
-- 🌱 Atualmente estou aprendendo sobre Desenvolvimento Web e de Jogos
+- 🌱 Atualmente estou aprendendo sobre Desenvolvimento de Jogos
 - 🔭 Em transição de carreira 
 - ⚡ Busco oportunidade de estágio para entrar de vez na área de programação
 
